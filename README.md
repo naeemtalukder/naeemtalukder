@@ -19,11 +19,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-naeem-talukder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-naeem-talukder" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:18382824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:18382824" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18382824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:18382824" height="30" width="40" /></a>
 <a href="https://fb.com/mdnaeemtalukder.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdnaeemtalukder.in" height="30" width="40" /></a>
 <a href="https://instagram.com/md_naeem_talukder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_naeem_talukder" height="30" width="40" /></a>
 <a href="https://www.behance.net/mdnaeemtalukder1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mdnaeemtalukder1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/janobynaeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="janobynaeem" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@janobynaeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="janobynaeem" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
