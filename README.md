@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Redux**
 
-- 👨‍💻 All of my projects are available at [https://delightful-platypus-b5cdd7.netlify.app](https://mdnaeemtalukder.netlify.app)
+- 👨‍💻 All of my projects are available at [https://mdnaeemtalukder.netlify.app](https://mdnaeemtalukder.netlify.app)
 
 - 💬 Ask me about **MERN**
 
